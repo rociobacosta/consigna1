@@ -1,0 +1,49 @@
+
+
+body{
+    background-image: linear-gradient(163deg, #eefbff 0%, #232966 50%, #282121 100%);
+    font-family: "Cabin", sans-serif !important;
+    position: relative;
+    min-height: 100vh;
+    padding-bottom: 100px;
+
+}
+
+.container{
+    flex: 1;
+}
+
+
+nav img{
+    width: 70px;
+    height: auto;
+ 
+}
+
+.sombra_personalizada{
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+
+/* ----Footer---- */
+footer{
+    background-color: black;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    color: #C0DBEA;
+    width: 100%;
+    height: 100px;
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+
+.texto_footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+
+}
+.texto_footer p{
+    padding-top: 19px;
+}
