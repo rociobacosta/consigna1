@@ -8,5 +8,5 @@ La pagina cuenta con un navbar donde solo esta ubicado el logo de la NASA, un fo
 Agrego un botón dinámicamente desde el formulario HTML mediante JS, este boton al hacer click dispara un evento que solicita la información a la API y muestra lo obtenido.
 ### Disparar un evento del DOM para cambiar una propiedad visual
 Al hacer clic en el botón, se dispara un evento que consulta la API de la NASA y muestra los resultados (imagen o video). Además, si la respuesta es exitosa, se cambia dinámicamente el contenido de un contenedor HTML con la imagen o video correspondiente.
-### 3. Agregar texto e imagen a través de JavaScript:
+### Agregar texto e imagen a través de JavaScript:
 En la función mostrarDatos, después de obtener los datos de la API, se insertan dinámicamente un título, una fecha y una imagen o un video en el contenedor de multimedia. Esto cambia la propiedad visual de un elemento HTML ya existente.
